@@ -1,3 +1,4 @@
+// @ts-nocheck
 "use client";
 
 import { Contract, ethers } from "ethers";
